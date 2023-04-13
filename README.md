@@ -1,4 +1,4 @@
-Oi meu nome é Reinaldo Mendes ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Oi meu nome é Reinald Mendes ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
 Analista de Sistemas, Jornalista e Publicitário
@@ -7,10 +7,10 @@ Analista de Sistemas, Jornalista e Publicitário
 Tenho diversas habilidades na área da programação, mas especialmente na questão da análise e gestão de projetos voltados ao desenvolvimento web. Também tenho habilidades com a criação de textos e artes gráficas, buscando o melhor desempenho comercial.
 
 *   🌍 Estou baseado em P
-*   ✉️ Você pode entrar em contato comigo em [r](mailto:r) [reinald\_30\_2009@hotmail.com](mailto:reinald_30_2009@hotmail.com)
+*   ✉️ Você pode entrar em contato comigo em (mailto:r) [reinald\_30\_2009@hotmail.com](mailto:reinald_30_2009@hotmail.com)
 *   🧠 estou aprendendo b
-*   🤝 Estou aberto a colaborar no p See More
-*   ⚡S  \_### Habilidades 
+*   🤝 Estou aberto a colaborar em projetos interessantes
+*   ⚡  Habilidades 
 <p align="left">
  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src ="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />< /a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -21,7 +21,7 @@ Tenho diversas habilidades na área da programação, mas especialmente na quest
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Social
+              Redes Social
                   
                    
                 <p align="left"> 
@@ -34,4 +34,5 @@ Tenho diversas habilidades na área da programação, mas especialmente na quest
                           
                       <a href="https://www.linkedin.com/in/reinald-mendes-b712b9182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/reinaldmendes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.twitter.com/reinaldmendes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  </p>
