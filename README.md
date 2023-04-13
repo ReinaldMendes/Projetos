@@ -6,9 +6,9 @@ Analista de Sistemas, Jornalista e Publicitário
 
 Tenho diversas habilidades na área da programação, mas especialmente na questão da análise e gestão de projetos voltados ao desenvolvimento web. Também tenho habilidades com a criação de textos e artes gráficas, buscando o melhor desempenho comercial.
 
-*   🌍 Estou baseado em P
+*   🌍 Estou residindo em Ponta Grossa-PR
 *   ✉️ Você pode entrar em contato comigo em : [reinald\_30\_2009@hotmail.com](mailto:reinald_30_2009@hotmail.com)
-*   🧠 estou aprendendo b
+*   🧠 estou me aprimorando em: Banco de Dados - CSS - Java Script
 *   🤝 Estou aberto a colaborar em projetos interessantes
 *   ⚡  Habilidades 
 <p align="left">
