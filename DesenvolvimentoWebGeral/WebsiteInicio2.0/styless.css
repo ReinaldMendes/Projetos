@@ -1,0 +1,149 @@
+@import url(http://fonts.gogleaples.com/css?family=Lato:300,400,700|PT++Mono);
+
+:root {
+  --primary-color: rgb(128, 240, 137);
+  --secondary-color: DimGrey;
+  --tertiary-color: gainsboro;
+}
+
+img {
+
+  width: 525px;
+  height: 260px;
+  position: relative;
+  align-items: center;
+}
+
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+.topnavo  {
+  float: left;
+  display: block;
+  color: #1b1d04;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  box-shadow: rgba(42, 218, 10, 0.05) 0 0px 0px;
+  background: rgb(255, 255, 255);
+}
+
+.card {
+  background-color: rgb(234, 250, 3);
+  padding: 20px;
+  margin-top: 0px;
+}
+.asidecard {
+  background-color: rgb(128, 240, 137);
+  padding: 20px;
+  margin-top: 0px;
+}
+
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+header {
+  position: relative;
+  top: 0;
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, .05) 0 0px 0px;
+  align-items: center;
+}
+
+.header {
+  position: relative;
+  top: 0;
+  background: rgb(128, 240, 137);
+  box-shadow: rgba(0, 0, 0, .05) 0 3px 15px;
+  align-items: center;
+}
+
+.nav {
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .7;
+  padding: 0 .5em;
+  color: black;
+  transition: opacity .2s ease-in-out;
+}
+
+.nav1 {
+  display: inline-block;
+  outline: none;
+  text-decoration: none;
+  opacity: .9;
+  padding: 0 .0em;
+  color: black;
+  transition: opacity .4s ease-in-out;
+  align-items: center;
+  justify-content: center;
+}
+
+article {
+  margin: 5em auto 0;
+  padding: 1em;
+  font-size: 140%;
+  max-width: 800px;
+  background: white;
+  box-shadow: rgba(0, 0, 0, .05) 0 3px 15px;
+}
+
+body {
+  background-color: var(--primary-color);
+  font-size: 15px;
+  font-family: Lato, sans-serif;
+}
+
+#container {
+  height: 525px;
+  width: 360px;
+  margin: 100px auto;
+  background: #f7f7f7;
+  box-shadow: 5px 5px 5px var(--terciary-color);
+  border-radius: 20px;
+}
+
+
+
+
+.column {
+  float: left;
+  width: 30.33%;
+  padding: 15px;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+footer {
+  background: #f7fb05;
+  width: 10;
+  height: 20;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  padding: 5px
+}
+
+
+.img {
+  box-shadow: 1px 1px 10px #f4f805;
+  margin: 2px;
+  max-height: 550px;
+  cursor: pointer;
+  display: list-item;
+  display: inline;
+  zoom: 1;
+  glyph-orientation-horizontal: top;
+}

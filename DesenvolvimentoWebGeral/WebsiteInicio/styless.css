@@ -1,0 +1,168 @@
+@import url(http://fonts.gogleaples.com/css?family=Lato:300,400,700|PT++Mono);
+
+:root {
+  --primary-color: rgb(128, 240, 137);
+  --secondary-color: rgb(255, 251, 8);
+  --tertiary-color: rgb(25, 9, 248);
+}
+
+img {
+
+  width: 525px;
+  height: 260px;
+  position: relative;
+  align-items: center;
+}
+
+.leftcolumn {   
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+
+.rightcolumn {
+  float: right;
+  width: 30%;
+  background-color: var(--primary-color);
+  text-align: center;
+ 
+}
+
+.text {
+  text-align: center;}
+ 
+.fakeimg {
+  background-color: var(--tertiary-color);
+  padding: 20px;
+  margin-top: 20px;}
+
+/* efeito para article */
+.card {
+  background-color: var(--secondary-color);
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.card2 {
+  float: none;
+  background-color: var(--primary-color);
+  padding: 30px;
+  margin-top: 20px;
+  align-items: center;
+ 
+}
+
+header {
+  position: relative;
+  top: 0;
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, .05) 0 0px 0px;
+  align-items: center;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  text-align: right;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  
+}
+#divBusca{
+  background-color:#f7fb05;
+  border:solid 4px;
+  border-radius:35px;
+  width:1000px;
+  text-align: right;
+}
+
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:15px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:22px;
+  width:260px;
+}
+
+body {
+  background-color: var(--primary-color);
+  font-size: 15px;
+  font-family: Lato, sans-serif;
+}
+
+#container {
+  height: 525px;
+  width: 360px;
+  margin: 100px auto;
+  background: #f7f7f7;
+  box-shadow: 5px 5px 5px var(--terciary-color);
+  border-radius: 20px;
+}
+
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+.column {
+  float: right;
+  width: 28.33%;
+  padding: 15px;
+}
+
+.row::after {
+  content: "";
+  display: inline-block;
+  clear: both;
+}
+
+
+
+footer {
+  background: #0258f8;
+  width: 10;
+  height: 20;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  padding: 5px
+}
+
+
+.img {
+  box-shadow: 1px 1px 10px #f4f805;
+  margin: 2px;
+  max-height: 550px;
+  cursor: pointer;
+  display: list-item;
+  display: inline;
+  zoom: 1;
+  glyph-orientation-horizontal: top;
+}

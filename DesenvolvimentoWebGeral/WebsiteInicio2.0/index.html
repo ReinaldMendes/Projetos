@@ -1,0 +1,130 @@
+<!-- home page -->
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styless.css">
+
+<body>
+    <header>
+        <div align-items: center;>
+            <img src="logo.png" alt="Site" width="500" height="500" />
+        </div>
+    </header>
+    <div class="header">
+        <h4> Pesquise </h4>
+        <div id="divBusca">
+            <input type="text" id="txtBusca" placeholder="Buscar..." />
+            <input type="button" value="Pesquisar" onclick="location.href='index.html'align-items: center;">
+        </div>
+
+        <div class="topnav">
+            <h1>Login</h1>
+            <form action="salvar_dados" method="post"> </a>
+                <h3>Nome do usuario</h3>
+                <input type="text" placeholder="nome" <br /> </a>
+                <h3>Senha</h3>
+                <input type="password" placeholder="******"> <br /> </a>
+                <input type="checkbox"> Prove que não é um robo <br /> </a>
+                <p>
+                    Guie a seta até o final
+                    <input type="range"> </a>
+                </p>
+                <input type="button" value="Acessar" onclick="location.href='loginAdm.html'"> </a>
+            </form>
+        </div>
+        <div class="topnav">
+            <h1> Novo usuario?</h1>
+            <h2>Cadastre-se</h2>
+            <form action="salvar_dados" method="post">
+                <input type="text" placeholder="nome completo"> <br />
+                <input type="date" placeholder="data nascimento"> <br />
+                <input type="number" placeholder="telefone"> <br />
+                <input type="text" placeholder="endereço"> <br />
+                <h4>Cadastrar senha</h4>
+                <input type="password" placeholder="******"> <br />
+                <input type="checkbox"> Prove que não é um robo <br />
+                <p>
+                    Guie a seta até o final
+                    <input type="range">
+                </p>
+                <input type="button" value="Cadastrar" onclick="location.href='login.html'">
+            </form>
+        </div>
+
+        <div class="asidecard">
+            <h1>Venha comprar no site INFOCONECTADOS</h1>
+            <p>Um site feito para você.</p>
+            <p><b>Você, que procura produtos de qualidade e com um preço que cabe no seu bolso</b></p>
+            <p><b>Navegue e fique por dentro do nosso site.</b></p>
+        </div>
+        <div class="leftcolumn">
+            <section>
+                <label for="serviceQual">
+                    <p>Quer produtos com descontos?</p>
+                </label>
+                <p>
+                    <select name="serviceQual" id="serviceQual">
+                        <option disable select value="o"> -- Escolha um Produto </option>
+                        <option value="0.3"> Produtos - 70% de desconto </option>
+                        <option value="0.2">Produtos - 50% de desconto</option>
+                        <option value="0.15">Produtos - 30% de desconto </option>
+                        <option value="0.1">Produtos - 20% de desconto</option>
+                        <option value="0.05">Produtos - 10% de desconto</option>
+                        <input type="button" value="Ver produtos" onclick="location.href='imagem 1.html'">
+                    </select>
+                </p>
+            </section>
+        </div>
+        
+        <section>
+            <H2>Veja o que estão dizendo do nosso site</H2>
+            <h3>João Mineiro</h3>
+            <img src="http://arquivo.devmedia.com.br/artigos/Joel_Rodrigues/HTMLBasico/avatar.png"
+                alt="Texto alternativo" title="Avatar" #tamfixo />
+            <img src="arquivo_inexistente.jpg" alt=" " title="Outra figura" />
+            <p> Um site confiavel, super indico...</p>
+            <h3>Ver mais cometarios? </h3>
+            <input type="button" value="Acessar" onclick="location.href='comentarios.html'">
+        </section>
+        <div class="row">
+            <div class="column">
+                <h3>Computador Dell.<h3>
+                        <img src="imagem1.jfif" alt="Site" class="img" />
+                        <input type="button" value="ver mais detalhes" onclick="location.href='imagem 1.html'">
+            </div>
+
+            <div class="column">
+                <h3>Computador HP.</h3>
+                <img src="computador 2.jpg" alt="Site" class="img" />
+                <input type="button" value="ver mais detalhes" onclick="location.href='computador 2.html'">
+            </div>
+            </article>
+
+            <div class="column">
+                <h3>Computador LG.<h3></h3>
+                    <img src="computador 3.jpeg" alt="Site" class="img" />
+                    <input type="button" value="ver mais detalhes" onclick="location.href='computador 3.html'">
+            </div>
+        </div>
+        <div class="fakeimg" src="catalogo.PNG" alt="Site">
+            <h3>Acesse mais produtos pelo nosso Catalogo de Produtos:</h3>
+            <input type="button" value="Acessar catalago" onclick="location.href='catalogo.html' ">
+        </div>
+    </div>
+    <footer>
+        Av. João Manoel dos Santos Ribas, 313 - Nova Rússia, Ponta Grossa - PR 84051-410
+        Desenvolvido por <a href="mailto:reinald.2967@aluno.pr.senac.br ">Reinald Mendes Dos Santos. </a>.<br>
+        Faculdade de Tecnologia SENAC Ponta Grossa - Venha nos visitar: <br />
+        Encontre pelo Map's
+        <map class="maps">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1806.6227959902735!2d-50.168734679500254!3d-25.093546559506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a1338c2ca9d%3A0x4dd4827f11995364!2sFaculdade%20Senac%20Ponta%20Grossa!5e0!3m2!1spt-BR!2sbr!4v1679592817188!5m2!1spt-BR!2sbr"
+                width="1880" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </map>
+    </footer>
+
+</body>
+
+</html>
