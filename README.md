@@ -8,7 +8,7 @@ Tenho diversas habilidades na área da programação, mas especialmente na quest
 
 *   🌍 Estou residindo em Ponta Grossa-PR
 *   ✉️ Você pode entrar em contato comigo em : [reinald\_30\_2009@hotmail.com](mailto:reinald_30_2009@hotmail.com)
-*   🧠 Estou me aprimorando em: Banco de Dados - CSS - Java Script
+*   🧠 Estou me aprimorando em: Banco de Dados - CSS - Java Script - Python - C++
 *   🤝 Estou aberto a colaborar em projetos interessantes
 *   ⚡ Habilidades 
 <p align="left">
