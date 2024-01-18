@@ -1,7 +1,7 @@
 Oi meu nome é Reinald Mendes ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-Analista de Sistemas, Jornalista e Publicitário
+Analista e Desenvolvedor de Sistemas,e nas horas vagas Jornalista e Publicitário
 -----------------------------------------------
 
 Tenho diversas habilidades na área da programação, mas especialmente na questão da análise e gestão de projetos voltados ao desenvolvimento web. Também tenho habilidades com a criação de textos e artes gráficas, buscando o melhor desempenho comercial.
